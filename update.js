@@ -5,6 +5,6 @@
     releaseDate: "2025-01-14",
     author: "@大鹅本鹅",
     contact: "bigoose2077",
-    documenturl:"https://www.feishu.cn/"
+    documenturl:"https://www.feishu.cn/",
     updateUrl: "https://www.icloud.com/shortcuts/99cf84f366fc4194b88ad39cc2cdccb8"
 }
